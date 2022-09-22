@@ -5,8 +5,8 @@ Contracts Addresses
 
 Kekchain Testnet
 
-Router :  0x09dbafa93b25f1ff826338ebaf8ab8275fbaba67    
-Factory : 0x12ed50d5ff8834ba2884658c628fd86fc43d9e7e    
+Router :  0x09DBafA93b25F1Ff826338eBaf8Ab8275FBAba67    
+Factory : 0x12ED50d5ff8834BA2884658C628FD86Fc43D9E7e    
 wKek :      0xA888a7A2dc73efdb5705106a216f068e939A2693
 
 
